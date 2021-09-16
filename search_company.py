@@ -8,7 +8,7 @@ import requests
 import sqlite3
 from datetime import datetime
 
-dbPath = "c:/StockDB/"
+dbPath = "C:/Dev/Server/Git-Lawfirmy/kiwoom-openapi/" # "c:/StockDB/"
 stockDb = "myStock.db"
 
 # quarterly performance table info

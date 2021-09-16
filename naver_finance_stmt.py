@@ -13,7 +13,8 @@ import sqlite3
 
 NF_URL = "https://finance.naver.com/item/main.nhn?code="
 
-dbPath = "c:/StockDB/"
+dbPath = "C:/Dev/Server/Git-Lawfirmy/kiwoom-openapi/" # "c:/StockDB/"
+
 stockDb = "myStock.db"
 
 # quarterly performance table info

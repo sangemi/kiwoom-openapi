@@ -34,7 +34,8 @@ codeDataType = ["text", "text", "text", "int", "int",
 				"real", "int", "int", "int", "real",
 				"int", "real", "text", "int", "real", "text"]
 
-dbPath = "c:/StockDB/"
+dbPath = "C:/Dev/Server/Git-Lawfirmy/kiwoom-openapi/" # "c:/StockDB/"
+
 stockDb = "myStock.db"
 kospiTable = "kospi"
 kosdaqTable = "kosdaq"
